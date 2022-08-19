@@ -1,5 +1,5 @@
 function [rhos, thetas] = HoughLines(H, nLines,rhoScale,thetaScale)
-%Your implemention here
+
 [xH,yH]=size(H);
 HH = numel(H);
 
