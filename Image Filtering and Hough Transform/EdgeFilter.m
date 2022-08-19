@@ -1,5 +1,5 @@
 function [img1] = EdgeFilter(img0, sigma)
-%Your implemention
+
     t_kernel=2*ceil(3*sigma)+1;
     kernel_gauss=fspecial('gaussian',t_kernel,sigma);
 
