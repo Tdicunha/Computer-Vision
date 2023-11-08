@@ -12,6 +12,11 @@ This first project has the aim to develop an image processing algorithm to enabl
 
 ![img01_04lines](https://github.com/telmocunha/Computer-Vision/assets/45535834/c996d12c-46e3-43c3-855c-feaa7f00c5d4)
 
+<p float="left">
+  <img src="https://github.com/telmocunha/Computer-Vision/assets/45535834/ef18f7e2-6fc7-4caa-a873-9ab30fa2f74a" width="400" />
+  <img src="https://github.com/telmocunha/Computer-Vision/assets/45535834/c996d12c-46e3-43c3-855c-feaa7f00c5d4" width="400" />
+</p>
+
 ## Feature Detection and Matching
 The second project aims to develop image processing algorithms for detecting identical images between a query image and its subsequent test images while ensuring that the features remain invariant to translations, rotations, and scales. The project is structured into the following functions:
 - Harris Corner: The first function in this algorithm identifies interest points using Harris Corner detection method.
