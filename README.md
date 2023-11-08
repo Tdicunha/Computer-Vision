@@ -20,12 +20,12 @@ The second project aims to develop image processing algorithms for detecting ide
 - Feature Matching: This fourth function implements an algorithm to associate features, i.e., using a query image to find the best matches in several test images. For this, two methods are used: the SSD method and the Ratio method.
 - Show Matching: This last function has the purpose of displaying the keypoints of two images and connect these keypoints with lines.
 
-<table>
-  <tr>
-    <td><img src="https://github.com/telmocunha/Computer-Vision/assets/45535834/68b7a8e3-3c65-429f-88aa-134431647bca" alt="Image 1" width="400" /></td>
-    <td><img src="https://github.com/telmocunha/Computer-Vision/assets/45535834/30e4ca20-9255-4960-8824-20f569dfe49e" alt="Image 2" width="400" /></td>
-  </tr>
-</table>
+<div style="display: inline-block; float: left; margin: 0 10px;">
+  <img src="https://github.com/telmocunha/Computer-Vision/assets/45535834/68b7a8e3-3c65-429f-88aa-134431647bca" alt="Image 1" width="400" />
+</div>
+<div style="display: inline-block; float: left; margin: 0 10px;">
+  <img src="https://github.com/telmocunha/Computer-Vision/assets/45535834/30e4ca20-9255-4960-8824-20f569dfe49e" alt="Image 2" width="400" />
+</div>
 
 ## Geometric Camera Calibration 
 This third project has the goal to develop algorithms for the geometric calibration of a camera, calculating its parameters and determining the lens distortions coefficients. The project is divided into the following steps:
